@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src=https://pakhse-construction-safety-ai.vercel.app/
+<img width="1200" height="475" alt="GHBanner" src=
 </div>
 
 # Run and deploy your AI Studio app
@@ -16,7 +16,7 @@ View your app in AI Studio: https://ai.studio/apps/c61b20d1-e269-46c1-86b9-fcf64
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
+3. Run the app:URL=https://  pakhse-construction-safety-ai.vercel.app/
    `npm run dev`
  **LTI & Compliance Metrics:** Real-time tracking of Lost-Time Injury (LTI) free days, PEC audit scores, active workforce counts, and monthly Toolbox Talk (TBT) totals.
 * **6-Month Incident Trends:** Interactive analytics powered by `Recharts` showcasing near misses, first aid cases, minor injuries, major violations, and hazard category breakdowns.
@@ -154,4 +154,4 @@ Developed for safer construction sites across Pakistan.   ```env
    ```
    The application will start on `http://localhost:3000`.
 
-URL=https://pakhse-construction-safety-ai.vercel.app/
+                       

@@ -154,3 +154,4 @@ Developed for safer construction sites across Pakistan.   ```env
    ```
    The application will start on `http://localhost:3000`.
 
+URL=https://pakhse-construction-safety-ai.vercel.app/

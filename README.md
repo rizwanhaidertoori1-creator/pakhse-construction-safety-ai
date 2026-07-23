@@ -18,7 +18,7 @@ View your app in AI Studio: https://ai.studio/apps/c61b20d1-e269-46c1-86b9-fcf64
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
-* **LTI & Compliance Metrics:** Real-time tracking of Lost-Time Injury (LTI) free days, PEC audit scores, active workforce counts, and monthly Toolbox Talk (TBT) totals.
+ **LTI & Compliance Metrics:** Real-time tracking of Lost-Time Injury (LTI) free days, PEC audit scores, active workforce counts, and monthly Toolbox Talk (TBT) totals.
 * **6-Month Incident Trends:** Interactive analytics powered by `Recharts` showcasing near misses, first aid cases, minor injuries, major violations, and hazard category breakdowns.
 * **Comprehensive Inspection Roster:** Pre-loaded daily and pre-shift checklists covering:
   * **PPE:** Hard hats (EN397/ANSI Z89.1), full-body harnesses, steel-toe boots, high-vis vests, welding shields.
@@ -153,3 +153,4 @@ Developed for safer construction sites across Pakistan.   ```env
    npm run dev
    ```
    The application will start on `http://localhost:3000`.
+

@@ -1,0 +1,6 @@
+{
+  "name": "PakHSE Construction Safety AI",
+  "description": "AI-powered Health, Safety & Environment (HSE) education and risk management platform for construction projects across Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
